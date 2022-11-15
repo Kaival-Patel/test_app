@@ -1,16 +1,14 @@
-# simform_kaival
+# KP Test App
 
-Simform Practical by Kaival Patel
+By Kaival Patel
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Due to Time Constraints didnt implemented nested tables or more than one tables, surely I could have done that with linking foreign keys. This app is developed in Flutter 3.3.3
 
-A few resources to get you started if this is your first Flutter project:
+Implemented with SQFlite (Due to time constraints but made sure whatever given is working completely fine). Thanks for giving your time.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter 3.3.3 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 18a827f393 (7 weeks ago) • 2022-09-28 10:03:14 -0700
+Engine • revision 5c984c26eb
+Tools • Dart 2.18.2 • DevTools 2.15.0
