@@ -5,7 +5,7 @@ import 'package:simform_kaival/src/utils/constants/constants.dart';
 
 class Api {
   final dio = createDio();
-  static String BASE_URL = "https://randomuser.me/api/?results=5";
+  static String BASE_URL = "https://randomuser.me/api/?results=100";
   Api._internal();
 
   static final _singleton = Api._internal();
