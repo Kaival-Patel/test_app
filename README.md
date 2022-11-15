@@ -12,3 +12,6 @@ Flutter 3.3.3 • channel stable • https://github.com/flutter/flutter.git
 Framework • revision 18a827f393 (7 weeks ago) • 2022-09-28 10:03:14 -0700
 Engine • revision 5c984c26eb
 Tools • Dart 2.18.2 • DevTools 2.15.0
+
+### More Insights
+StateManagement (GETX), LOCAL DB (SQFLITE, DIDNT HAD TIME TO REVIEW DRIFT), API MANAGEMENT WITH INTERCEPTORS (DIO)
